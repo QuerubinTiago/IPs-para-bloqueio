@@ -205,7 +205,7 @@ iptables -I INPUT -s 61.131.207.176 -j DROP
 iptables -I INPUT -s 61.139.124.136 -j DROP
 iptables -I INPUT -s 61.146.150.209 -j DROP
 iptables -I INPUT -s 61.147.125.143 -j DROP
-iptables -I INPUT -s 61.157.198.130 -j DROPv
+iptables -I INPUT -s 61.157.198.130 -j DROP
 iptables -I INPUT -s 61.183.35.44 -j DROP
 iptables -I INPUT -s 61.222.250.113 -j DROP
 iptables -I INPUT -s 61.252.149.174 -j DROP
