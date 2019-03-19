@@ -3365,8 +3365,6 @@ iptables -I INPUT -s 201.54.119.245 -j DROP
 iptables -I INPUT -s 201.55.174.19 -j DROP
 iptables -I INPUT -s 201.55.32.186 -j DROP
 iptables -I INPUT -s 201.6.240.159 -j DROP
-iptables -I INPUT -s 201.62.64.196 -j DROP
-iptables -I INPUT -s 201.62.64.208 -j DROP
 iptables -I INPUT -s 201.71.36.53 -j DROP
 iptables -I INPUT -s 202.105.18.222 -j DROP
 iptables -I INPUT -s 202.107.194.91 -j DROP
