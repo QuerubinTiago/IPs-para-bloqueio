@@ -15,6 +15,7 @@ iptables -I INPUT -s 77.247.110.119 -j DROP
 iptables -I INPUT -s 5.62.41.123 -j DROP
 iptables -I INPUT -s 77.247.110.15 -j DROP
 iptables -I INPUT -s 77.247.108.88 -j DROP
+iptables -I INPUT -s 77.247.110.45 -j DROP
 iptables -I INPUT -s 77.247.108.87 -j DROP
 iptables -I INPUT -s 94.237.89.238 -j DROP
 iptables -I INPUT -s 77.247.109.207 -j DROP
