@@ -5691,3 +5691,4 @@ iptables -I INPUT -s 183.234.68.86 -j DROP
 iptables -I INPUT -s 183.234.47.12 -j DROP
 iptables -I INPUT -s 183.230.146.26 -j DROP
 iptables -I INPUT -s 183.196.186.16 -j DROP
+iptables -I INPUT -s 218.237.65.93 -j DROP
