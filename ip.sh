@@ -1,5 +1,15 @@
 #!/bin/bash
 # 
+iptables -I INPUT -s 46.166.139.180 -j DROP
+iptables -I INPUT -s 195.154.133.90 -j DROP
+iptables -I INPUT -s 46.166.187.169 -j DROP
+iptables -I INPUT -s 46.166.139.75 -j DROP
+iptables -I INPUT -s 62.210.248.16 -j DROP
+iptables -I INPUT -s 152.243.214.183 -j DROP
+iptables -I INPUT -s 77.247.110.190 -j DROP
+iptables -I INPUT -s 51.15.162.101 -j DROP
+iptables -I INPUT -s 46.166.139.170 -j DROP
+iptables -I INPUT -s 77.247.110.182 -j DROP
 iptables -I INPUT -s 80.82.78.27 -j DROP
 iptables -I INPUT -s 62.233.65.182 -j DROP
 iptables -I INPUT -s 60.174.197.236 -j DROP
