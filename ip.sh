@@ -1,5 +1,6 @@
 #!/bin/bash
-# 
+#
+iptables -I INPUT -s 62.210.167.104 -j DROP
 iptables -I INPUT -s 46.166.142.102 -j DROP
 iptables -I INPUT -s 62.210.112.11 -j DROP
 iptables -I INPUT -s 62.210.157.68 -j DROP
