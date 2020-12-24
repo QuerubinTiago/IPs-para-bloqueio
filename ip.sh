@@ -431,6 +431,8 @@ iptables -I INPUT -s 112.78.139.154 -j DROP
 iptables -I INPUT -s 112.78.151.101 -j DROP
 iptables -I INPUT -s 112.78.152.34 -j DROP
 iptables -I INPUT -s 112.78.152.35 -j DROP
+iptables -I INPUT -s 112.85.42.89 -j DROP
+iptables -I INPUT -s 112.85.42.47 -j DROP
 iptables -I INPUT -s 112.85.42.102 -j DROP
 iptables -I INPUT -s 112.85.42.144 -j DROP
 iptables -I INPUT -s 112.85.42.147 -j DROP
